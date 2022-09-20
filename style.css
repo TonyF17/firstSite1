@@ -56,6 +56,13 @@ h1 {
     
 }
 
+/* Horizontal Rule Settings */
+hr  {
+ border-top: 1px solid rgb(108, 88, 14);
+ width: 50%;
+
+} 
+
 h2 {
     text-align: center;
     font-weight: 500;
@@ -84,3 +91,4 @@ h5 {
     margin-left: -50px;
     margin-right: -50px;
 }
+ 
