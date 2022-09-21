@@ -18,6 +18,7 @@ a:link {
   a:visited {
     color: rgb(157, 10, 10);
   }
+  
 /* Link Settings */
   a:link {
     text-decoration: none;
@@ -35,7 +36,7 @@ a:link {
     text-decoration: underline;
   }
 
-  /*ul settings */
+  /* ul settings */
   ul {
     text-align: center;
     list-style-position: inside;
@@ -45,7 +46,7 @@ a:link {
     text-align: center;
   }
 
- /* ol settings */
+ /* ol settings/no bullets */
   ol {
    list-style-type: none;
   }
