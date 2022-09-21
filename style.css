@@ -1,23 +1,24 @@
+/* Title Background Settings */
 body {
     background-color: #C7CDBC;
 }
 
-/* background settings */
+/* Background Settings */
 .main {
     height: 3px;
     background-color: rgb(126, 116, 62);
 }
 
-/* unvisited link */
+/* Unvisited Link */
 a:link {
     color: rgb(2, 34, 2);
   }
   
-  /* visited link */
+  /* Visited Link */
   a:visited {
     color: rgb(157, 10, 10);
   }
-/* link settings */
+/* Link Settings */
   a:link {
     text-decoration: none;
   }
@@ -34,6 +35,7 @@ a:link {
     text-decoration: underline;
   }
 
+  /*ul settings */
   ul {
     text-align: center;
     list-style-position: inside;
@@ -41,6 +43,11 @@ a:link {
 
   li { 
     text-align: center;
+  }
+
+ /* ol settings */
+  ol {
+   list-style-type: none;
   }
 
 /* My photo */
@@ -71,7 +78,7 @@ hr  {
  width: 50%;
 
 } 
-
+/* Welcome Setttings */
 h2 {
     text-align: center;
     font-weight: 500;
@@ -87,11 +94,11 @@ p {
     margin-left: 300px;
     padding: 3px; 
 }
-
+/* Contact Me Settings */
 h3 {
     text-align: center;
 }
-
+/* Name/Footer Settings */
 h4 {
     text-align: center;
     background-color: rgb(126, 116, 62);
